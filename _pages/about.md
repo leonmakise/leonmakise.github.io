@@ -21,8 +21,10 @@ I am a Ph.D candidate at Wuhan University, supervised by Prof. Lefei Zhang. My r
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.06*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2022.
+- *2021.03*: &nbsp;🎉🎉 One paper is accepted by CVPR 2021.[Pseudo Facial Generation with Extreme Poses for Face Recognition]
+- *2020.10*: &nbsp;🎉🎉 One paper is accepted by Pattern Recognition.[Discriminative subspace matrix factorization for multiview data clustering]
+- *2019.05*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2019.[Pseudo Supervised Matrix Factorization in Discriminative Subspace]
 
 # 📝 Publications 
 
