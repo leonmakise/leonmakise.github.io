@@ -31,27 +31,25 @@ I am a Ph.D candidate at Wuhan University, supervised by Prof. Lefei Zhang. My r
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ELMformer: Efficient Raw Image Restoration with a Locally Multiplicative Transformer](https://github.com/leonmakise/ELMformer)
+- [ELMformer: Efficient Raw Image Restoration with a Locally Multiplicative Transformer](https://github.com/leonmakise/ELMformer)
 
 **Jiaqi Ma**, Shengyuan Yan, Lefei Zhang, Guoli Wang, Qian Zhang
 
-- We propose a efficient transformer for raw image restoration.
+We propose a efficient transformer for raw image restoration.
 </div>
 </div>
 
 - [Pseudo Facial Generation with Extreme Poses for Face Recognition](https://github.com/leonmakise/PFGEPFR), Guoli Wang, Jiaqi Ma, Qian Zhang, Jiwen Lu, Jie Zhou **CVPR 2021**
 
+- [Discriminative subspace matrix factorization for multiview data clustering], Jiaqi Ma, Yipeng Zhang, Lefei Zhang **Pattern Recognition**
+
+- [Pseudo Supervised Matrix Factorization in Discriminative Subspace], Jiaqi Ma, Yipeng Zhang, Lefei Zhang, Bo Du, Dapeng Tao **IJCAI 2019**
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
+# 📖 Educations & 💻 Internships
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
