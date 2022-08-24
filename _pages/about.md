@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D candidate at School of Computer Science, Wuhan University. My research interests include low-level vision for raw images and neural ISP. 
+I am a Ph.D candidate at School of Computer Science, Wuhan University. My research interests include low-level vision for raw images and neural ISP. Now, I am a research intern at Horizon Robotics.
 
 
 # 🔥 News
