@@ -91,10 +91,8 @@ We discover the relationship between NMF and LDA and propose a pseudo supervised
 &emsp; School of Computer Science, Wuhan University.
 
 
-
 - *2018.09 - 2021.06*, Master in Computer Science.
 &emsp; School of Computer Science, Wuhan University.
-
 
 
 
