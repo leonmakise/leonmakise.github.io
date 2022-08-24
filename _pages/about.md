@@ -46,10 +46,10 @@ We propose a efficient transformer for raw image restoration.
 - [Pseudo Supervised Matrix Factorization in Discriminative Subspace], Jiaqi Ma, Yipeng Zhang, Lefei Zhang, Bo Du, Dapeng Tao **IJCAI 2019**
 
 # 🎖 Honors and Awards
-- *2021.11*   Yisheng Scholarship Wuhan University.
-- *2021.06*   Outstanding Postgraduate  Wuhan University.
-- *2019.11*   China National Scholarship  Ministry of Education of the People's Republic of China.
-- *2019.11*   First-Class Outstanding Scholarship for Postgraduate  Wuhan University.
+- *2021.11*   Yisheng Scholarship &emsp; Wuhan University.
+- *2021.06*   Outstanding Postgraduate  &emsp; Wuhan University.
+- *2019.11*   China National Scholarship  &emsp; Ministry of Education of the People's Republic of China.
+- *2019.11*   First-Class Outstanding Scholarship for Postgraduate  &emsp; Wuhan University.
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -57,4 +57,4 @@ We propose a efficient transformer for raw image restoration.
 
 
 # 💻 Internships
-- *2020.10 - now*, Horizon Robotics, Research Intern.
+- *2020.10 - now*, Horizon Robotics &emsp; Research Intern.
