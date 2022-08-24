@@ -52,8 +52,14 @@ We propose a efficient transformer for raw image restoration.
 - *2019.11*, &emsp; First-Class Outstanding Scholarship for Postgraduate  &emsp; Wuhan University.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - now*, School of Computer Science, Wuhan University.
+
+Ph.D in Computer Science.
+
+- *2018.09 - 2021.06*, School of Computer Science, Wuhan University.
+
+Master in Computer Science.
+
 
 
 # 💻 Internships
