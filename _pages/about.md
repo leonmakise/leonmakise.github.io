@@ -22,20 +22,16 @@ I am a Ph.D candidate at School of Computer Science, Wuhan University. My resear
 
 # 🔥 News
 - *2022.06*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2022.
-(ELMformer: Efficient Raw Image Restoration with a Locally Multiplicative Transformer)
 - *2021.03*: &nbsp;🎉🎉 One paper is accepted by CVPR 2021.
-(Pseudo Facial Generation with Extreme Poses for Face Recognition)
 - *2020.10*: &nbsp;🎉🎉 One paper is accepted by Pattern Recognition.
-(Discriminative subspace matrix factorization for multiview data clustering)
 - *2019.05*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2019.
-(Pseudo Supervised Matrix Factorization in Discriminative Subspace)
 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2022</div><img src='images/acm mm2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [ELMformer: Efficient Raw Image Restoration with a Locally Multiplicative Transformer](https://github.com/leonmakise/ELMformer)
+- ELMformer: Efficient Raw Image Restoration with a Locally Multiplicative Transformer
 
 **Jiaqi Ma**, Shengyuan Yan, Lefei Zhang, Guoli Wang, Qian Zhang. 
 
@@ -49,7 +45,7 @@ We propose an efficient transformer framework for raw image restoration.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/cvpr2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [Pseudo Facial Generation with Extreme Poses for Face Recognition](https://github.com/leonmakise/PFGEPFR)
+- [Pseudo Facial Generation with Extreme Poses for Face Recognition](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Pseudo_Facial_Generation_With_Extreme_Poses_for_Face_Recognition_CVPR_2021_paper.pdf)
   
 Guoli Wang, **Jiaqi Ma**, Qian Zhang, Jiwen Lu, Jie Zhou. 
 
@@ -63,7 +59,7 @@ We discover the residual in extreme poses and propose a light-weight plug-in for
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition</div><img src='images/pr2020.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [Discriminative subspace matrix factorization for multiview data clustering](https://github.com/leonmakise/PFGEPFR)
+- [Discriminative subspace matrix factorization for multiview data clustering](https://www.sciencedirect.com/science/article/abs/pii/S0031320320304799)
   
 **Jiaqi Ma**, Yipeng Zhang, Lefei Zhang. 
 
@@ -75,7 +71,7 @@ We extend PSMF to multi-view scenero and discuss the combination of supervised a
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2019</div><img src='images/ijcai2019.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [Pseudo Supervised Matrix Factorization in Discriminative Subspace](https://github.com/leonmakise/PFGEPFR)
+- [Pseudo Supervised Matrix Factorization in Discriminative Subspace](https://www.ijcai.org/Proceedings/2019/0633.pdf)
   
 **Jiaqi Ma**, Yipeng Zhang, Lefei Zhang, Bo Du, Dapeng Tao. 
 
