@@ -32,7 +32,7 @@ I am a Ph.D candidate at School of Computer Science, Wuhan University. My resear
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2022</div><img src='images/acm mm2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - [ELMformer: Efficient Raw Image Restoration with a Locally Multiplicative Transformer](https://github.com/leonmakise/ELMformer)
@@ -70,7 +70,7 @@ We extend PSMF to multi-view scenero and discuss the combination of supervised a
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2019</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2019</div><img src='images/ijcai2019.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - [Pseudo Supervised Matrix Factorization in Discriminative Subspace](https://github.com/leonmakise/PFGEPFR)
