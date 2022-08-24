@@ -89,13 +89,14 @@ We discover the relationship between NMF and LDA and propose a pseudo supervised
 - *2019.11*,  &emsp; First-Class Outstanding Scholarship for Postgraduate  &emsp; Wuhan University.
 
 # 📖 Educations
-- *2021.09 - now*, School of Computer Science, Wuhan University.
+- *2021.09 - now*, Ph.D in Computer Science.
+&emsp; School of Computer Science, Wuhan University.
 
-Ph.D in Computer Science.
 
-- *2018.09 - 2021.06*, School of Computer Science, Wuhan University.
 
-Master in Computer Science.
+- *2018.09 - 2021.06*, Master in Computer Science.
+&emsp; School of Computer Science, Wuhan University.
+
 
 
 
