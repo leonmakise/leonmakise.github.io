@@ -37,7 +37,7 @@ I am a Ph.D candidate at School of Computer Science, Wuhan University. My resear
 
 - [ELMformer: Efficient Raw Image Restoration with a Locally Multiplicative Transformer](https://github.com/leonmakise/ELMformer)
 
-**Jiaqi Ma**, Shengyuan Yan, Lefei Zhang, Guoli Wang, Qian Zhang
+**Jiaqi Ma**, Shengyuan Yan, Lefei Zhang, Guoli Wang, Qian Zhang. 
 
 [**Project**](https://github.com/leonmakise/ELMformer)
 We propose an efficient transformer framework for raw image restoration.
@@ -50,7 +50,7 @@ We propose an efficient transformer framework for raw image restoration.
 
 - [Pseudo Facial Generation with Extreme Poses for Face Recognition](https://github.com/leonmakise/PFGEPFR)
   
-Guoli Wang, **Jiaqi Ma**, Qian Zhang, Jiwen Lu, Jie Zhou
+Guoli Wang, **Jiaqi Ma**, Qian Zhang, Jiwen Lu, Jie Zhou. 
 
 [**Project**](https://github.com/leonmakise/PFGEPFR)
 We discover the residual in extreme poses and propose a light-weight plug-in for face recognition.
@@ -63,7 +63,7 @@ We discover the residual in extreme poses and propose a light-weight plug-in for
 
 - [Discriminative subspace matrix factorization for multiview data clustering](https://github.com/leonmakise/PFGEPFR)
   
-**Jiaqi Ma**, Yipeng Zhang, Lefei Zhang
+**Jiaqi Ma**, Yipeng Zhang, Lefei Zhang. 
 
 We extend PSMF to multi-view scenero and discuss the combination of supervised and unsupervised framework.
 </div>
@@ -75,7 +75,7 @@ We extend PSMF to multi-view scenero and discuss the combination of supervised a
 
 - [Pseudo Supervised Matrix Factorization in Discriminative Subspace](https://github.com/leonmakise/PFGEPFR)
   
-**Jiaqi Ma**, Yipeng Zhang, Lefei Zhang, Bo Du, Dapeng Tao
+**Jiaqi Ma**, Yipeng Zhang, Lefei Zhang, Bo Du, Dapeng Tao. 
 
 We discover the relationship between NMF and LDA and propose a pseudo supervised matrix factorization method (PSMF).
 </div>
