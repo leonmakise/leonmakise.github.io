@@ -57,4 +57,4 @@ We propose a efficient transformer for raw image restoration.
 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2020.10 - now*, Horizon Robotics, Research Intern.
