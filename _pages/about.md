@@ -39,7 +39,8 @@ I am a Ph.D candidate at School of Computer Science, Wuhan University. My resear
 
 **Jiaqi Ma**, Shengyuan Yan, Lefei Zhang, Guoli Wang, Qian Zhang. 
 
-[**Project**](https://github.com/leonmakise/ELMformer)\ 
+[**Project**](https://github.com/leonmakise/ELMformer) 
+  
 We propose an efficient transformer framework for raw image restoration.
 </div>
 </div>
@@ -52,7 +53,8 @@ We propose an efficient transformer framework for raw image restoration.
   
 Guoli Wang, **Jiaqi Ma**, Qian Zhang, Jiwen Lu, Jie Zhou. 
 
-[**Project**](https://github.com/leonmakise/PFGEPFR)\
+[**Project**](https://github.com/leonmakise/PFGEPFR)
+
 We discover the residual in extreme poses and propose a light-weight plug-in for face recognition.
 </div>
 </div>
