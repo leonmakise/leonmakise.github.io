@@ -45,7 +45,7 @@ We propose an efficient transformer framework for raw image restoration.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/cvpr2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - [Pseudo Facial Generation with Extreme Poses for Face Recognition](https://github.com/leonmakise/PFGEPFR)
