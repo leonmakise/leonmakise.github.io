@@ -21,10 +21,14 @@ I am a Ph.D candidate at School of Computer Science, Wuhan University. My resear
 
 
 # 🔥 News
-- *2022.06*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2022.[ELMformer: Efficient Raw Image Restoration with a Locally Multiplicative Transformer]
-- *2021.03*: &nbsp;🎉🎉 One paper is accepted by CVPR 2021.[Pseudo Facial Generation with Extreme Poses for Face Recognition]
-- *2020.10*: &nbsp;🎉🎉 One paper is accepted by Pattern Recognition.[Discriminative subspace matrix factorization for multiview data clustering]
-- *2019.05*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2019.[Pseudo Supervised Matrix Factorization in Discriminative Subspace]
+- *2022.06*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2022.
+(ELMformer: Efficient Raw Image Restoration with a Locally Multiplicative Transformer)
+- *2021.03*: &nbsp;🎉🎉 One paper is accepted by CVPR 2021.
+(Pseudo Facial Generation with Extreme Poses for Face Recognition)
+- *2020.10*: &nbsp;🎉🎉 One paper is accepted by Pattern Recognition.
+(Discriminative subspace matrix factorization for multiview data clustering)
+- *2019.05*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2019.
+(Pseudo Supervised Matrix Factorization in Discriminative Subspace)
 
 # 📝 Publications 
 
@@ -35,11 +39,25 @@ I am a Ph.D candidate at School of Computer Science, Wuhan University. My resear
 
 **Jiaqi Ma**, Shengyuan Yan, Lefei Zhang, Guoli Wang, Qian Zhang
 
-We propose a efficient transformer for raw image restoration.
+[**Project**](https://github.com/leonmakise/ELMformer)
+We propose an efficient transformer framework for raw image restoration.
 </div>
 </div>
 
-- [Pseudo Facial Generation with Extreme Poses for Face Recognition](https://github.com/leonmakise/PFGEPFR), Guoli Wang, Jiaqi Ma, Qian Zhang, Jiwen Lu, Jie Zhou **CVPR 2021**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- [Pseudo Facial Generation with Extreme Poses for Face Recognition](https://github.com/leonmakise/PFGEPFR)
+  
+Guoli Wang, **Jiaqi Ma**, Qian Zhang, Jiwen Lu, Jie Zhou
+
+[**Project**](https://github.com/leonmakise/PFGEPFR)
+We discover the residual in extreme poses and propose a plug-in for face recognition.
+</div>
+</div>
+
+
 
 - [Discriminative subspace matrix factorization for multiview data clustering], Jiaqi Ma, Yipeng Zhang, Lefei Zhang **Pattern Recognition**
 
@@ -49,7 +67,7 @@ We propose a efficient transformer for raw image restoration.
 - *2021.11*,  &emsp; Yisheng Scholarship &emsp; Wuhan University.
 - *2021.06*,  &emsp; Outstanding Postgraduate  &emsp; Wuhan University.
 - *2019.11*,  &emsp; China National Scholarship  &emsp; Ministry of Education of the People's Republic of China.
-- *2019.11*, &emsp; First-Class Outstanding Scholarship for Postgraduate  &emsp; Wuhan University.
+- *2019.11*,  &emsp; First-Class Outstanding Scholarship for Postgraduate  &emsp; Wuhan University.
 
 # 📖 Educations
 - *2021.09 - now*, School of Computer Science, Wuhan University.
