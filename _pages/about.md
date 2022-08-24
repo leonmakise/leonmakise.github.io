@@ -53,15 +53,34 @@ We propose an efficient transformer framework for raw image restoration.
 Guoli Wang, **Jiaqi Ma**, Qian Zhang, Jiwen Lu, Jie Zhou
 
 [**Project**](https://github.com/leonmakise/PFGEPFR)
-We discover the residual in extreme poses and propose a plug-in for face recognition.
+We discover the residual in extreme poses and propose a light-weight plug-in for face recognition.
 </div>
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- [Discriminative subspace matrix factorization for multiview data clustering], Jiaqi Ma, Yipeng Zhang, Lefei Zhang **Pattern Recognition**
+- [Discriminative subspace matrix factorization for multiview data clustering](https://github.com/leonmakise/PFGEPFR)
+  
+**Jiaqi Ma**, Yipeng Zhang, Lefei Zhang
 
-- [Pseudo Supervised Matrix Factorization in Discriminative Subspace], Jiaqi Ma, Yipeng Zhang, Lefei Zhang, Bo Du, Dapeng Tao **IJCAI 2019**
+We extend PSMF to multi-view scenero and discuss the combination of supervised and unsupervised framework.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2019</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- [Pseudo Supervised Matrix Factorization in Discriminative Subspace](https://github.com/leonmakise/PFGEPFR)
+  
+**Jiaqi Ma**, Yipeng Zhang, Lefei Zhang, Bo Du, Dapeng Tao
+
+We discover the relationship between NMF and LDA and propose a pseudo supervised matrix factorization method (PSMF).
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
 - *2021.11*,  &emsp; Yisheng Scholarship &emsp; Wuhan University.
