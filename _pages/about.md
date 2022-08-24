@@ -58,7 +58,7 @@ We discover the residual in extreme poses and propose a light-weight plug-in for
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition</div><img src='images/pr2020.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - [Discriminative subspace matrix factorization for multiview data clustering](https://github.com/leonmakise/PFGEPFR)
