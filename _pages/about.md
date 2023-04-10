@@ -21,12 +21,24 @@ I am a Ph.D candidate at School of Computer Science, Wuhan University. My resear
 
 
 # 🔥 News
+- *2023.04*: &nbsp;🎉🎉 One paper is accepted by Neural Networks.
 - *2022.06*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2022.
 - *2021.03*: &nbsp;🎉🎉 One paper is accepted by CVPR 2021.
 - *2020.10*: &nbsp;🎉🎉 One paper is accepted by Pattern Recognition.
 - *2019.05*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2019.
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks</div><img src='images/nn2023.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- Restoration and Enhancement on Low Exposure Raw Images by Joint Demosaicing and Denoising
+
+**Jiaqi Ma**, Guoli Wang, Lefei Zhang, Qian Zhang. 
+
+  
+We propose a joint demosaicing and denoising framework for restoring and enhancing low exposure raw images.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2022</div><img src='images/acm mm2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
