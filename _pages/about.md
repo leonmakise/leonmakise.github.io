@@ -69,7 +69,7 @@ We discover the residual in extreme poses and propose a light-weight plug-in for
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition</div><img src='images/pr2020.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
+<span class='show_paper_citations' data='BJUlpoMAAAAJ:u-x6o8ySG0sC'></span>
 - [Discriminative subspace matrix factorization for multiview data clustering](https://www.sciencedirect.com/science/article/abs/pii/S0031320320304799)
   
 **Jiaqi Ma**, Yipeng Zhang, Lefei Zhang. 
