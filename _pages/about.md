@@ -43,8 +43,7 @@ We propose a joint demosaicing and denoising framework for restoring and enhanci
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2022</div><img src='images/acm mm2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- ELMformer: Efficient Raw Image Restoration with a Locally Multiplicative Transformer
-
+- [ELMformer: Efficient Raw Image Restoration with a Locally Multiplicative Transformer](https://dl.acm.org/doi/abs/10.1145/3503161.3547767)
 **Jiaqi Ma**, Shengyuan Yan, Lefei Zhang, Guoli Wang, Qian Zhang. 
 
 [**Project**](https://github.com/leonmakise/ELMformer) 
