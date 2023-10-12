@@ -17,10 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D candidate at School of Computer Science, Wuhan University. My research interests include low-level vision for raw images and neural ISP. Now, I am a research intern at Horizon Robotics.
+I am a Ph.D candidate under supervision of [Prof. Lefei Zhang](https://scholar.google.ch/citations?user=BLKHwNwAAAAJ&hl=en) and [Prof. Bo Du](https://scholar.google.ch/citations?hl=en&user=Shy1gnMAAAAJ) at School of Computer Science, Wuhan University. My research interests include low-level vision for raw images and neural ISP. I was a research intern at [Horizon Robotics](https://www.horizon.cc/). Now, I am a visiting Ph.D at [LV-Lab](http://lv-nus.org/). which is founded by [Prof. Shuicheng Yan](https://scholar.google.ch/citations?hl=en&user=DNuiPHwAAAAJ) and now directed by [Prof. Xinchao Wang](https://scholar.google.ch/citations?user=w69Buq0AAAAJ&hl=en).
 
 
 # 🔥 News
+- *2023.06*: &nbsp;🎉🎉 Our new paper *ProRes* is on ArXiv now.
 - *2023.04*: &nbsp;🎉🎉 One paper is accepted by Neural Networks.
 - *2022.06*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2022.
 - *2021.03*: &nbsp;🎉🎉 One paper is accepted by CVPR 2021.
@@ -28,10 +29,21 @@ I am a Ph.D candidate at School of Computer Science, Wuhan University. My resear
 - *2019.05*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2019.
 
 # 📝 Publications 
+<div class='paper-box-text' markdown="1">
+
+- [ProRes: Exploring Degradation-aware Visual Prompt for Universal Image Restoration](https://arxiv.org/abs/2306.13653)
+
+**Jiaqi Ma**, Tianheng Cheng, Guoli Wang, Qian Zhang, Xinggang Wang, Lefei Zhang.
+
+  
+We perform the first attempt to involve visual prompt into image restoration tasks and explore some new findings.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks</div><img src='images/nn2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- Restoration and Enhancement on Low Exposure Raw Images by Joint Demosaicing and Denoising
+- [Restoration and Enhancement on Low Exposure Raw Images by Joint Demosaicing and Denoising](https://www.sciencedirect.com/science/article/pii/S0893608023001442)
 
 **Jiaqi Ma**, Guoli Wang, Lefei Zhang, Qian Zhang. 
 
@@ -109,4 +121,4 @@ We discover the relationship between NMF and LDA and propose a pseudo supervised
 
 
 # 💻 Internships
-- *2020.10 - now*, &emsp; Horizon Robotics &emsp; Research Intern.
+- *2020.10 - 2023.06*, &emsp; Horizon Robotics &emsp; Research Intern.
