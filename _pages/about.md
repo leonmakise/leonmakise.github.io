@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D candidate under supervision of [Prof. Lefei Zhang](https://scholar.google.ch/citations?user=BLKHwNwAAAAJ&hl=en) and [Prof. Bo Du](https://scholar.google.ch/citations?hl=en&user=Shy1gnMAAAAJ) at School of Computer Science, Wuhan University. My research interests include low-level vision for raw images and neural ISP. I was a research intern at [Horizon Robotics](https://www.horizon.cc/). Now, I am a visiting Ph.D at [LV-Lab](http://lv-nus.org/). which is founded by [Prof. Shuicheng Yan](https://scholar.google.ch/citations?hl=en&user=DNuiPHwAAAAJ) and now directed by [Prof. Xinchao Wang](https://scholar.google.ch/citations?user=w69Buq0AAAAJ&hl=en).
+I am a Ph.D candidate under supervision of [Prof. Lefei Zhang](https://scholar.google.ch/citations?user=BLKHwNwAAAAJ&hl=en) and [Prof. Bo Du](https://scholar.google.ch/citations?hl=en&user=Shy1gnMAAAAJ) at School of Computer Science, Wuhan University. My research interests include low-level vision for raw images and neural ISP. I was a research intern at [Horizon Robotics](https://www.horizon.cc/). Now, I am a visiting Ph.D in [LV-Lab](http://lv-nus.org/) at NUS, which is founded by [Prof. Shuicheng Yan](https://scholar.google.ch/citations?hl=en&user=DNuiPHwAAAAJ) and now directed by [Prof. Xinchao Wang](https://scholar.google.ch/citations?user=w69Buq0AAAAJ&hl=en).
 
 
 # 🔥 News
@@ -37,7 +37,6 @@ I am a Ph.D candidate under supervision of [Prof. Lefei Zhang](https://scholar.g
 
   
 We perform the first attempt to involve visual prompt into image restoration tasks and explore some new findings.
-</div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks</div><img src='images/nn2023.jpg' alt="sym" width="100%"></div></div>
