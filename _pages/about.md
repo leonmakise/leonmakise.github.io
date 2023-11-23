@@ -21,7 +21,7 @@ I am a Ph.D candidate under supervision of [Prof. Lefei Zhang](https://scholar.g
 
 
 # 🔥 News
-- *2023.06*: &nbsp;🎉🎉 Our new paper *ProRes* is on ArXiv now.
+- *2023.06*: &nbsp;🎉🎉 Our new paper *ProRes* is on ArXiv now (Universal Image Restoration).
 - *2023.04*: &nbsp;🎉🎉 One paper is accepted by Neural Networks.
 - *2022.06*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2022.
 - *2021.03*: &nbsp;🎉🎉 One paper is accepted by CVPR 2021.
@@ -104,6 +104,8 @@ We discover the relationship between NMF and LDA and propose a pseudo supervised
 
 
 # 🎖 Honors and Awards
+- *2023.10*,  &emsp; China National Scholarship  &emsp; Ministry of Education of the People's Republic of China.
+- *2022.06*,  &emsp; CSC(China Scholarship Council) Scholarship &emsp; Ministry of Education of the People's Republic of China.
 - *2021.11*,  &emsp; Yisheng Scholarship &emsp; Wuhan University.
 - *2021.06*,  &emsp; Outstanding Postgraduate  &emsp; Wuhan University.
 - *2019.11*,  &emsp; China National Scholarship  &emsp; Ministry of Education of the People's Republic of China.
