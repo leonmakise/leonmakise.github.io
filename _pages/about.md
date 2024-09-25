@@ -65,7 +65,7 @@ we introduce HyperSIGMA, a vision transformer-based foundation model for HSI int
 <div class='paper-box-text' markdown="1">
 - [ProRes: Exploring Degradation-aware Visual Prompt for Universal Image Restoration](https://arxiv.org/abs/2306.13653)
 
-**Jiaqi Ma***, Tianheng Cheng*, Guoli Wang, Qian Zhang, Xinggang Wang, Lefei Zhang^.
+**Jiaqi Ma**\*, Tianheng Cheng\*, Guoli Wang, Qian Zhang, Xinggang Wang, Lefei Zhang^.
 
 [**Project**](https://github.com/leonmakise/ProRes) 
 
