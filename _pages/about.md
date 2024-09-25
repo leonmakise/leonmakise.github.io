@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D candidate under supervision of [Prof. Lefei Zhang](https://scholar.google.ch/citations?user=BLKHwNwAAAAJ&hl=en) and [Prof. Bo Du](https://scholar.google.ch/citations?hl=en&user=Shy1gnMAAAAJ) at School of Computer Science, Wuhan University. I was a research intern at [Horizon Robotics](https://www.horizon.cc/). I was also a visiting student in [LV-Lab](http://lv-nus.org/) at NUS, which is founded by [Prof. Shuicheng Yan](https://scholar.google.ch/citations?hl=en&user=DNuiPHwAAAAJ) under supervision of [Prof. Xinchao Wang](https://scholar.google.ch/citations?user=w69Buq0AAAAJ&hl=en).
+I am a Ph.D. candidate under supervision of [Prof. Lefei Zhang](https://scholar.google.ch/citations?user=BLKHwNwAAAAJ&hl=en) and [Prof. Bo Du](https://scholar.google.ch/citations?hl=en&user=Shy1gnMAAAAJ) at School of Computer Science, Wuhan University. I was a research intern at [Horizon Robotics](https://www.horizon.cc/). I was also a visiting student in [LV-Lab](http://lv-nus.org/) at NUS, which is founded by [Prof. Shuicheng Yan](https://scholar.google.ch/citations?hl=en&user=DNuiPHwAAAAJ) under supervision of [Prof. Xinchao Wang](https://scholar.google.ch/citations?user=w69Buq0AAAAJ&hl=en).
 
 My research interests include low-level vision for Natural Images (All-in-one Restoration), Raw Images (Neural ISP) and Remote Sensing Images (Hyperspectral).
 
