@@ -53,7 +53,7 @@ we propose Perceive-IR, an all-in-one image restorer designed to achieve fine-gr
 
 [**Project**](https://github.com/leonmakise/ProRes) 
 
-We perform the first attempt to involve visual prompt into image restoration tasks and explore some new findings.
+We perform the first attempt to involve visual prompt into image restoration tasks and explore some new findings. (The code will be released in Oct.)
 </div>
 </div>
 
