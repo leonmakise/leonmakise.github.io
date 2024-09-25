@@ -17,14 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D candidate under supervision of [Prof. Lefei Zhang](https://scholar.google.ch/citations?user=BLKHwNwAAAAJ&hl=en) and [Prof. Bo Du](https://scholar.google.ch/citations?hl=en&user=Shy1gnMAAAAJ) at School of Computer Science, Wuhan University. My research interests include low-level vision for raw images and neural ISP. I was a research intern at [Horizon Robotics](https://www.horizon.cc/). I was also a visiting student in [LV-Lab](http://lv-nus.org/) at NUS, which is founded by [Prof. Shuicheng Yan](https://scholar.google.ch/citations?hl=en&user=DNuiPHwAAAAJ) under supervision of [Prof. Xinchao Wang](https://scholar.google.ch/citations?user=w69Buq0AAAAJ&hl=en).
+I am a Ph.D candidate under supervision of [Prof. Lefei Zhang](https://scholar.google.ch/citations?user=BLKHwNwAAAAJ&hl=en) and [Prof. Bo Du](https://scholar.google.ch/citations?hl=en&user=Shy1gnMAAAAJ) at School of Computer Science, Wuhan University. I was a research intern at [Horizon Robotics](https://www.horizon.cc/). I was also a visiting student in [LV-Lab](http://lv-nus.org/) at NUS, which is founded by [Prof. Shuicheng Yan](https://scholar.google.ch/citations?hl=en&user=DNuiPHwAAAAJ) under supervision of [Prof. Xinchao Wang](https://scholar.google.ch/citations?user=w69Buq0AAAAJ&hl=en).
 
+My research interests include low-level vision for Natural Images (All-in-one Restoration), Raw Images (Neural ISP) and Remote Sensing Images (Hyperspectral).
 
 # 🔥 News
 - *2024.09*: &nbsp;🥂 We release a repo regarding with [*All-in-one Image Restoration*](https://github.com/leonmakise/Awesome-All-in-one-Image-Restoration-Methods), please follow and star it. We are awlays updating those recent awesome methods on this arising task. The comprehensive survey on All-in-one Image Restoration is on the way, stay tune with us~
 - *2024.08*: &nbsp;✨ Our new paper [*Perceive-IR*](https://arxiv.org/abs/2408.15994) is on ArXiv now (All-in-one Image Restoration).
 - *2024.06*: &nbsp;✨ Our new paper [*HyperSIGMA*](https://arxiv.org/abs/2406.11519) is on ArXiv now (The First One Billion Params Remote Sensing Foundation Model!).
-- *2023.06*: &nbsp;✨ Our new paper [*ProRes*](https://arxiv.org/abs/2306.13653) is on ArXiv now (Universal/All-in-one Image Restoration).
+- *2023.06*: &nbsp;✨ Our new paper [*ProRes*](https://arxiv.org/abs/2306.13653) is on ArXiv now (All-in-one Image Restoration).
 - *2023.04*: &nbsp;🎉 One paper is accepted by Neural Networks.
 - *2022.06*: &nbsp;🎉 One paper is accepted by ACM MM 2022.
 - *2021.03*: &nbsp;🎉 One paper is accepted by CVPR 2021.
@@ -46,7 +47,7 @@ we propose Perceive-IR, an all-in-one image restorer designed to achieve fine-gr
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review (TPAMI)</div><img src='images/perceive-ir.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review (TPAMI)</div><img src='images/hypersigma.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - [HyperSIGMA: Hyperspectral Intelligence Comprehension Foundation Model](https://arxiv.org/abs/2406.11519)
 
