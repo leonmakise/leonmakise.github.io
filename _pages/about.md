@@ -17,11 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D candidate under supervision of [Prof. Lefei Zhang](https://scholar.google.ch/citations?user=BLKHwNwAAAAJ&hl=en) and [Prof. Bo Du](https://scholar.google.ch/citations?hl=en&user=Shy1gnMAAAAJ) at School of Computer Science, Wuhan University. My research interests include low-level vision for raw images and neural ISP. I was a research intern at [Horizon Robotics](https://www.horizon.cc/). Now, I am a visiting Ph.D in [LV-Lab](http://lv-nus.org/) at NUS, which is founded by [Prof. Shuicheng Yan](https://scholar.google.ch/citations?hl=en&user=DNuiPHwAAAAJ) and now directed by [Prof. Xinchao Wang](https://scholar.google.ch/citations?user=w69Buq0AAAAJ&hl=en).
+I am a Ph.D candidate under supervision of [Prof. Lefei Zhang](https://scholar.google.ch/citations?user=BLKHwNwAAAAJ&hl=en) and [Prof. Bo Du](https://scholar.google.ch/citations?hl=en&user=Shy1gnMAAAAJ) at School of Computer Science, Wuhan University. My research interests include low-level vision for raw images and neural ISP. I was a research intern at [Horizon Robotics](https://www.horizon.cc/). I was also a visiting student in [LV-Lab](http://lv-nus.org/) at NUS, which is founded by [Prof. Shuicheng Yan](https://scholar.google.ch/citations?hl=en&user=DNuiPHwAAAAJ) under supervision of [Prof. Xinchao Wang](https://scholar.google.ch/citations?user=w69Buq0AAAAJ&hl=en).
 
 
 # 🔥 News
-- *2023.06*: &nbsp;🎉🎉 Our new paper *ProRes* is on ArXiv now (Universal Image Restoration).
+- *2024.09*: &nbsp;🎉🎉 We release a repo regarding with [*All-in-one Image Restoration*](https://github.com/leonmakise/Awesome-All-in-one-Image-Restoration-Methods), please follow and star it. We are awlays updating those recent awesome methods on this arising task. The comprehensive survey on All-in-one Image Restoration is on the way, stay tune with us~
+- *2024.08*: &nbsp;🎉🎉 Our new paper [*Perceive-IR*](https://arxiv.org/abs/2408.15994) is on ArXiv now (All-in-one Image Restoration).
+- *2023.06*: &nbsp;🎉🎉 Our new paper [*ProRes*](https://arxiv.org/abs/2306.13653) is on ArXiv now (Universal/All-in-one Image Restoration).
 - *2023.04*: &nbsp;🎉🎉 One paper is accepted by Neural Networks.
 - *2022.06*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2022.
 - *2021.03*: &nbsp;🎉🎉 One paper is accepted by CVPR 2021.
@@ -29,13 +31,27 @@ I am a Ph.D candidate under supervision of [Prof. Lefei Zhang](https://scholar.g
 - *2019.05*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2019.
 
 # 📝 Publications 
-<div class='paper-box-text' markdown="1">
+Note: * Equal contribution, ^ corresponding.
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review</div><img src='images/perceive-ir.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+- [Perceive-IR: Learning to Perceive Degradation Better for All-in-One Image Restoration](https://arxiv.org/abs/2408.15994)
+
+Xu Zhang*, **Jiaqi Ma***, Guoli Wang, Qian Zhang, Huan Zhang, Lefei Zhang^.
+
+**Project WIP**
+
+We perform the first attempt to involve visual prompt into image restoration tasks and explore some new findings.
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review</div><img src='images/prores.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 - [ProRes: Exploring Degradation-aware Visual Prompt for Universal Image Restoration](https://arxiv.org/abs/2306.13653)
 
-**Jiaqi Ma**, Tianheng Cheng, Guoli Wang, Qian Zhang, Xinggang Wang, Lefei Zhang.
+**Jiaqi Ma***, Tianheng Cheng*, Guoli Wang, Qian Zhang, Xinggang Wang, Lefei Zhang^.
 
-  
+[**Project**](https://github.com/leonmakise/ProRes) 
+
 We perform the first attempt to involve visual prompt into image restoration tasks and explore some new findings.
 </div>
 
@@ -44,7 +60,7 @@ We perform the first attempt to involve visual prompt into image restoration tas
 
 - [Restoration and Enhancement on Low Exposure Raw Images by Joint Demosaicing and Denoising](https://www.sciencedirect.com/science/article/pii/S0893608023001442)
 
-**Jiaqi Ma**, Guoli Wang, Lefei Zhang, Qian Zhang. 
+**Jiaqi Ma**, Guoli Wang, Lefei Zhang^, Qian Zhang. 
 
   
 We propose a joint demosaicing and denoising framework for restoring and enhancing low exposure raw images.
@@ -56,7 +72,7 @@ We propose a joint demosaicing and denoising framework for restoring and enhanci
 
 - [ELMformer: Efficient Raw Image Restoration with a Locally Multiplicative Transformer](https://dl.acm.org/doi/abs/10.1145/3503161.3547767)
   
-**Jiaqi Ma**, Shengyuan Yan, Lefei Zhang, Guoli Wang, Qian Zhang. 
+**Jiaqi Ma**, Shengyuan Yan, Lefei Zhang^, Guoli Wang, Qian Zhang. 
 
 [**Project**](https://github.com/leonmakise/ELMformer) 
   
@@ -70,7 +86,7 @@ We propose an efficient transformer framework for raw image restoration.
 
 - [Pseudo Facial Generation with Extreme Poses for Face Recognition](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Pseudo_Facial_Generation_With_Extreme_Poses_for_Face_Recognition_CVPR_2021_paper.pdf)
   
-Guoli Wang, **Jiaqi Ma**, Qian Zhang, Jiwen Lu, Jie Zhou. 
+Guoli Wang, **Jiaqi Ma**, Qian Zhang, Jiwen Lu^, Jie Zhou. 
 
 [**Project**](https://github.com/leonmakise/PFGEPFR)
 
@@ -84,7 +100,7 @@ We discover the residual in extreme poses and propose a light-weight plug-in for
 <span class='show_paper_citations' data='BJUlpoMAAAAJ:u-x6o8ySG0sC'></span>
 - [Discriminative subspace matrix factorization for multiview data clustering](https://www.sciencedirect.com/science/article/abs/pii/S0031320320304799)
   
-**Jiaqi Ma**, Yipeng Zhang, Lefei Zhang. 
+**Jiaqi Ma**, Yipeng Zhang, Lefei Zhang^. 
 
 We extend PSMF to multi-view scenero and discuss the combination of supervised and unsupervised framework.
 </div>
@@ -96,7 +112,7 @@ We extend PSMF to multi-view scenero and discuss the combination of supervised a
 
 - [Pseudo Supervised Matrix Factorization in Discriminative Subspace](https://www.ijcai.org/Proceedings/2019/0633.pdf)
   
-**Jiaqi Ma**, Yipeng Zhang, Lefei Zhang, Bo Du, Dapeng Tao. 
+**Jiaqi Ma**, Yipeng Zhang, Lefei Zhang^, Bo Du, Dapeng Tao. 
 
 We discover the relationship between NMF and LDA and propose a pseudo supervised matrix factorization method (PSMF).
 </div>
