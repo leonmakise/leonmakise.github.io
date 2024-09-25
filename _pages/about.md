@@ -21,15 +21,14 @@ I am a Ph.D candidate under supervision of [Prof. Lefei Zhang](https://scholar.g
 
 
 # 🔥 News
-- *2024.09*: &nbsp;🎉🎉 We release a repo regarding with [*All-in-one Image Restoration*](https://github.com/leonmakise/Awesome-All-in-one-Image-Restoration-Methods), please follow and star it. We are awlays updating those recent awesome methods on this arising task. The comprehensive survey on All-in-one Image Restoration is on the way, stay tune with us~
-- *2024.08*: &nbsp;🎉🎉 Our new paper [*Perceive-IR*](https://arxiv.org/abs/2408.15994) is on ArXiv now (All-in-one Image Restoration).
-- *2023.06*: &nbsp;🎉🎉 Our new paper [*ProRes*](https://arxiv.org/abs/2306.13653) is on ArXiv now (Universal/All-in-one Image Restoration).
-<span class='show_paper_citations' data='BJUlpoMAAAAJ:qjMakFHDy7sC'></span>
-- *2023.04*: &nbsp;🎉🎉 One paper is accepted by Neural Networks.
-- *2022.06*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2022.
-- *2021.03*: &nbsp;🎉🎉 One paper is accepted by CVPR 2021.
-- *2020.10*: &nbsp;🎉🎉 One paper is accepted by Pattern Recognition.
-- *2019.05*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2019.
+- *2024.09*: &nbsp;🥂 We release a repo regarding with [*All-in-one Image Restoration*](https://github.com/leonmakise/Awesome-All-in-one-Image-Restoration-Methods), please follow and star it. We are awlays updating those recent awesome methods on this arising task. The comprehensive survey on All-in-one Image Restoration is on the way, stay tune with us~
+- *2024.08*: &nbsp;✨ Our new paper [*Perceive-IR*](https://arxiv.org/abs/2408.15994) is on ArXiv now (All-in-one Image Restoration).
+- *2023.06*: &nbsp;✨ Our new paper [*ProRes*](https://arxiv.org/abs/2306.13653) is on ArXiv now (Universal/All-in-one Image Restoration).
+- *2023.04*: &nbsp;🎉 One paper is accepted by Neural Networks.
+- *2022.06*: &nbsp;🎉 One paper is accepted by ACM MM 2022.
+- *2021.03*: &nbsp;🎉 One paper is accepted by CVPR 2021.
+- *2020.10*: &nbsp;🎉 One paper is accepted by Pattern Recognition.
+- *2019.05*: &nbsp;🎉 One paper is accepted by IJCAI 2019.
 
 # 📝 Publications 
 Note: * Equal contribution, ^ corresponding.
@@ -53,6 +52,7 @@ we propose Perceive-IR, an all-in-one image restorer designed to achieve fine-gr
 **Jiaqi Ma***, Tianheng Cheng*, Guoli Wang, Qian Zhang, Xinggang Wang, Lefei Zhang^.
 
 [**Project**](https://github.com/leonmakise/ProRes) 
+<span class='show_paper_citations' data='BJUlpoMAAAAJ:qjMakFHDy7sC'></span>
 
 We perform the first attempt to involve visual prompt into image restoration tasks and explore some new findings. (The code will be released in Oct.)
 </div>
@@ -138,7 +138,8 @@ We discover the relationship between NMF and LDA and propose a pseudo supervised
 - *2018.09 - 2021.06*, Master in Computer Science.
 &emsp; School of Computer Science, Wuhan University.
 
-
+- *2014.09 - 2018.06*, Bachelor in Computer Science.
+&emsp; School of Information Engineering, Zhengzhou University.
 
 # 💻 Internships
 - *2020.10 - 2023.06*, &emsp; Horizon Robotics &emsp; Research Intern.
