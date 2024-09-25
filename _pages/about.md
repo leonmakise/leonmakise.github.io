@@ -23,6 +23,7 @@ I am a Ph.D candidate under supervision of [Prof. Lefei Zhang](https://scholar.g
 # 🔥 News
 - *2024.09*: &nbsp;🥂 We release a repo regarding with [*All-in-one Image Restoration*](https://github.com/leonmakise/Awesome-All-in-one-Image-Restoration-Methods), please follow and star it. We are awlays updating those recent awesome methods on this arising task. The comprehensive survey on All-in-one Image Restoration is on the way, stay tune with us~
 - *2024.08*: &nbsp;✨ Our new paper [*Perceive-IR*](https://arxiv.org/abs/2408.15994) is on ArXiv now (All-in-one Image Restoration).
+- *2024.06*: &nbsp;✨ Our new paper [*HyperSIGMA*](https://arxiv.org/abs/2406.11519) is on ArXiv now (The First One Billion Params Remote Sensing Foundation Model!).
 - *2023.06*: &nbsp;✨ Our new paper [*ProRes*](https://arxiv.org/abs/2306.13653) is on ArXiv now (Universal/All-in-one Image Restoration).
 - *2023.04*: &nbsp;🎉 One paper is accepted by Neural Networks.
 - *2022.06*: &nbsp;🎉 One paper is accepted by ACM MM 2022.
@@ -31,9 +32,9 @@ I am a Ph.D candidate under supervision of [Prof. Lefei Zhang](https://scholar.g
 - *2019.05*: &nbsp;🎉 One paper is accepted by IJCAI 2019.
 
 # 📝 Publications 
-Note: * Equal contribution, ^ corresponding.
+Note: * Equal contribution, ^ Corresponding authors.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review</div><img src='images/perceive-ir.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review (TIP)</div><img src='images/perceive-ir.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - [Perceive-IR: Learning to Perceive Degradation Better for All-in-One Image Restoration](https://arxiv.org/abs/2408.15994)
 
@@ -45,16 +46,29 @@ we propose Perceive-IR, an all-in-one image restorer designed to achieve fine-gr
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review</div><img src='images/prores.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review (TPAMI)</div><img src='images/perceive-ir.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+- [HyperSIGMA: Hyperspectral Intelligence Comprehension Foundation Model](https://arxiv.org/abs/2406.11519)
+
+
+Di Wang*, Meiqi Hu*, Yao Jin*, Yuchun Miao*, Jiaqi Yang*, Yichu Xu*, Xiaolei Qin*, **Jiaqi Ma***, Lingyu Sun*, Chenxing Li*, Chuan Fu, Hongruixuan Chen, Chengxi Han^, Naoto Yokoya, Jing Zhang^, Minqiang Xu, Lin Liu, Lefei Zhang, Chen Wu^, Bo Du^, Dacheng Tao, Liangpei Zhang^.
+
+[**Project**](https://github.com/WHU-Sigma/HyperSIGMA)
+
+
+we introduce HyperSIGMA, a vision transformer-based foundation model for HSI interpretation, scalable to over a billion parameters.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review (TIP)</div><img src='images/prores.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - [ProRes: Exploring Degradation-aware Visual Prompt for Universal Image Restoration](https://arxiv.org/abs/2306.13653)
 
 **Jiaqi Ma***, Tianheng Cheng*, Guoli Wang, Qian Zhang, Xinggang Wang, Lefei Zhang^.
 
 [**Project**](https://github.com/leonmakise/ProRes) 
-<span class='show_paper_citations' data='BJUlpoMAAAAJ:qjMakFHDy7sC'></span>
 
-We perform the first attempt to involve visual prompt into image restoration tasks and explore some new findings. (The code will be released in Oct.)
+We perform the first attempt to involve visual prompt into image restoration tasks and explore some new findings.
 </div>
 </div>
 
@@ -122,7 +136,7 @@ We discover the relationship between NMF and LDA and propose a pseudo supervised
 </div>
 
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 - *2023.10*,  &emsp; China National Scholarship  &emsp; Ministry of Education of the People's Republic of China.
 - *2022.06*,  &emsp; CSC(China Scholarship Council) Scholarship &emsp; Ministry of Education of the People's Republic of China.
 - *2021.11*,  &emsp; Yisheng Scholarship &emsp; Wuhan University.
@@ -141,5 +155,5 @@ We discover the relationship between NMF and LDA and propose a pseudo supervised
 - *2014.09 - 2018.06*, Bachelor in Computer Science.
 &emsp; School of Information Engineering, Zhengzhou University.
 
-# 💻 Internships
+# 🔬 Internships
 - *2020.10 - 2023.06*, &emsp; Horizon Robotics &emsp; Research Intern.
