@@ -24,6 +24,7 @@ I am a Ph.D candidate under supervision of [Prof. Lefei Zhang](https://scholar.g
 - *2024.09*: &nbsp;🎉🎉 We release a repo regarding with [*All-in-one Image Restoration*](https://github.com/leonmakise/Awesome-All-in-one-Image-Restoration-Methods), please follow and star it. We are awlays updating those recent awesome methods on this arising task. The comprehensive survey on All-in-one Image Restoration is on the way, stay tune with us~
 - *2024.08*: &nbsp;🎉🎉 Our new paper [*Perceive-IR*](https://arxiv.org/abs/2408.15994) is on ArXiv now (All-in-one Image Restoration).
 - *2023.06*: &nbsp;🎉🎉 Our new paper [*ProRes*](https://arxiv.org/abs/2306.13653) is on ArXiv now (Universal/All-in-one Image Restoration).
+<span class='show_paper_citations' data='BJUlpoMAAAAJ:qjMakFHDy7sC'></span>
 - *2023.04*: &nbsp;🎉🎉 One paper is accepted by Neural Networks.
 - *2022.06*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2022.
 - *2021.03*: &nbsp;🎉🎉 One paper is accepted by CVPR 2021.
@@ -130,7 +131,7 @@ We discover the relationship between NMF and LDA and propose a pseudo supervised
 - *2019.11*,  &emsp; First-Class Outstanding Scholarship for Postgraduate  &emsp; Wuhan University.
 
 # 📖 Educations
-- *2021.09 - now*, Ph.D in Computer Science.
+- *2021.09 - now*, Ph.D. student in Computer Science.
 &emsp; School of Computer Science, Wuhan University.
 
 
