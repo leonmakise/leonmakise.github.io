@@ -39,7 +39,7 @@ Note: * Equal contribution, ^ Corresponding authors.
 <div class='paper-box-text' markdown="1">
 - [Perceive-IR: Learning to Perceive Degradation Better for All-in-One Image Restoration](https://arxiv.org/abs/2408.15994)
 
-Xu Zhang*, **Jiaqi Ma***, Guoli Wang, Qian Zhang, Huan Zhang, Lefei Zhang^.
+Xu Zhang\*, **Jiaqi Ma**\*, Guoli Wang, Qian Zhang, Huan Zhang, Lefei Zhang^.
 
 **Project WIP**
 
@@ -52,7 +52,7 @@ we propose Perceive-IR, an all-in-one image restorer designed to achieve fine-gr
 - [HyperSIGMA: Hyperspectral Intelligence Comprehension Foundation Model](https://arxiv.org/abs/2406.11519)
 
 
-Di Wang*, Meiqi Hu*, Yao Jin*, Yuchun Miao*, Jiaqi Yang*, Yichu Xu*, Xiaolei Qin*, **Jiaqi Ma***, Lingyu Sun*, Chenxing Li*, Chuan Fu, Hongruixuan Chen, Chengxi Han^, Naoto Yokoya, Jing Zhang^, Minqiang Xu, Lin Liu, Lefei Zhang, Chen Wu^, Bo Du^, Dacheng Tao, Liangpei Zhang^.
+Di Wang\*, Meiqi Hu\*, Yao Jin\*, Yuchun Miao\*, Jiaqi Yang\*, Yichu Xu\*, Xiaolei Qin\*, **Jiaqi Ma**\*, Lingyu Sun\*, Chenxing Li\*, Chuan Fu, Hongruixuan Chen, Chengxi Han^, Naoto Yokoya, Jing Zhang^, Minqiang Xu, Lin Liu, Lefei Zhang, Chen Wu^, Bo Du^, Dacheng Tao, Liangpei Zhang^.
 
 [**Project**](https://github.com/WHU-Sigma/HyperSIGMA)
 
