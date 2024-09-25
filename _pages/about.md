@@ -32,6 +32,7 @@ I am a Ph.D candidate under supervision of [Prof. Lefei Zhang](https://scholar.g
 
 # 📝 Publications 
 Note: * Equal contribution, ^ corresponding.
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review</div><img src='images/perceive-ir.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - [Perceive-IR: Learning to Perceive Degradation Better for All-in-One Image Restoration](https://arxiv.org/abs/2408.15994)
@@ -41,8 +42,9 @@ Xu Zhang*, **Jiaqi Ma***, Guoli Wang, Qian Zhang, Huan Zhang, Lefei Zhang^.
 **Project WIP**
 
 we propose Perceive-IR, an all-in-one image restorer designed to achieve fine-grained quality control that enables restored images to more closely resemble their undistorted counterparts, regardless of the type or severity of degradation. 
-
 </div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review</div><img src='images/prores.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - [ProRes: Exploring Degradation-aware Visual Prompt for Universal Image Restoration](https://arxiv.org/abs/2306.13653)
@@ -52,6 +54,7 @@ we propose Perceive-IR, an all-in-one image restorer designed to achieve fine-gr
 [**Project**](https://github.com/leonmakise/ProRes) 
 
 We perform the first attempt to involve visual prompt into image restoration tasks and explore some new findings.
+</div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks</div><img src='images/nn2023.jpg' alt="sym" width="100%"></div></div>
