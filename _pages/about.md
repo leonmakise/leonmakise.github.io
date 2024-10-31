@@ -22,10 +22,10 @@ I am a Ph.D. candidate under supervision of [Prof. Lefei Zhang](https://scholar.
 My research interests include low-level vision for Natural Images (All-in-one Restoration), Raw Images (Neural ISP) and Remote Sensing Images (Hyperspectral).
 
 # 🔥 News
-- *2024.09*: &nbsp;🥂 We release a repo regarding with [*All-in-one Image Restoration*](https://github.com/leonmakise/Awesome-All-in-one-Image-Restoration-Methods), please follow and star it. We are awlays updating those recent awesome methods on this arising task. The comprehensive survey on All-in-one Image Restoration is on the way, stay tune with us~
-- *2024.08*: &nbsp;✨ Our new paper [*Perceive-IR*](https://arxiv.org/abs/2408.15994) is on ArXiv now (All-in-one Image Restoration).
-- *2024.06*: &nbsp;✨ Our new paper [*HyperSIGMA*](https://arxiv.org/abs/2406.11519) is on ArXiv now (The First One Billion Params Remote Sensing Foundation Model!).
-- *2023.06*: &nbsp;✨ Our new paper [*ProRes*](https://arxiv.org/abs/2306.13653) is on ArXiv now (All-in-one Image Restoration).
+- *2024.09*: &nbsp;🥂 We release a project regarding with [*All-in-one Image Restoration*](https://github.com/leonmakise/Awesome-All-in-one-Image-Restoration-Methods). We are awlays updating those recent awesome methods on this arising task. The comprehensive survey on All-in-one Image Restoration is on the way, stay tune with us~
+- *2024.08*: &nbsp;✨ [*Perceive-IR*](https://arxiv.org/abs/2408.15994) is on ArXiv now (All-in-one Image Restoration).
+- *2024.06*: &nbsp;✨ [*HyperSIGMA*](https://arxiv.org/abs/2406.11519) is on ArXiv now (The First One Billion Params Remote Sensing Foundation Model!).
+- *2023.06*: &nbsp;✨ [*ProRes*](https://arxiv.org/abs/2306.13653) is on ArXiv now (All-in-one Image Restoration).
 - *2023.04*: &nbsp;🎉 One paper is accepted by Neural Networks.
 - *2022.06*: &nbsp;🎉 One paper is accepted by ACM MM 2022.
 - *2021.03*: &nbsp;🎉 One paper is accepted by CVPR 2021.
