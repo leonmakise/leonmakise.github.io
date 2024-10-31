@@ -158,3 +158,22 @@ We discover the relationship between NMF and LDA and propose a pseudo supervised
 
 # 🔬 Internships
 - *2020.10 - 2023.06*, &emsp; Horizon Robotics &emsp; Research Intern.
+
+
+<!-- Default Statcounter code for HomePage
+https://leonmakise.github.io/ -->
+<script type="text/javascript">
+var sc_project=13053535; 
+var sc_invisible=1; 
+var sc_security="f39796e9"; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
+<noscript><div class="statcounter"><a title="Web Analytics"
+href="https://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="https://c.statcounter.com/13053535/0/f39796e9/1/"
+alt="Web Analytics"
+referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
+<!-- End of Statcounter Code -->
