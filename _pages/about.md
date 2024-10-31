@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate under supervision of [Prof. Lefei Zhang](https://scholar.google.ch/citations?user=BLKHwNwAAAAJ&hl=en) and [Prof. Bo Du](https://scholar.google.ch/citations?hl=en&user=Shy1gnMAAAAJ) at School of Computer Science, Wuhan University. I was a research intern at [Horizon Robotics](https://www.horizon.cc/). I was also a visiting student in [LV-Lab](http://lv-nus.org/) at NUS, which is founded by [Prof. Shuicheng Yan](https://scholar.google.ch/citations?hl=en&user=DNuiPHwAAAAJ) under supervision of [Prof. Xinchao Wang](https://scholar.google.ch/citations?user=w69Buq0AAAAJ&hl=en).
+I am a Ph.D. candidate under supervision of [Prof. Lefei Zhang](https://scholar.google.ch/citations?user=BLKHwNwAAAAJ&hl=en) and [Prof. Bo Du](https://scholar.google.ch/citations?hl=en&user=Shy1gnMAAAAJ) at School of Computer Science, Wuhan University. I was a research intern at [Horizon Robotics](https://www.horizon.cc/) worked with [Dr. Qian Zhang](https://scholar.google.com/citations?user=pCY-bikAAAAJ) and [Dr. Guoli Wang](https://scholar.google.com/citations?user=z-25fk0AAAAJ). I was also a visiting student in [LV-Lab](http://lv-nus.org/) at NUS, which is founded by [Prof. Shuicheng Yan](https://scholar.google.ch/citations?hl=en&user=DNuiPHwAAAAJ) under supervision of [Prof. Xinchao Wang](https://scholar.google.ch/citations?user=w69Buq0AAAAJ&hl=en).
 
 My research interests include low-level vision for Natural Images (All-in-one Restoration), Raw Images (Neural ISP) and Remote Sensing Images (Hyperspectral).
+
+📧 I am open to collaboration and welcome inquiries from anyone interested in my research. Please feel free to reach out via email.
 
 # 🔥 News
 - *2024.09*: &nbsp;🥂 We release a project regarding with [*All-in-one Image Restoration*](https://github.com/leonmakise/Awesome-All-in-one-Image-Restoration-Methods). We are awlays updating those recent awesome methods on this arising task. The comprehensive survey on All-in-one Image Restoration is on the way, stay tune with us~
@@ -159,4 +161,10 @@ We discover the relationship between NMF and LDA and propose a pseudo supervised
 # 🔬 Internships
 - *2020.10 - 2023.06*, &emsp; Horizon Robotics &emsp; Research Intern.
 
+# 👫 Collaboration
+Tianheng Cheng, Zhihe Lu, Jiawang Bai, Zeyu Xiao
+
+Xu Zhang, Shengyuan Yan, Hongyu Li
+
+Chuan Fu, Di Wang, Chengxi Han, Yichu Xu, Yuchun Miao, Jiaqi Yang, Meiqi Hu, Yao Jin, Xiaolei Qin, Lingyu Sun, Chenxing Li, Hongruixuan Chen
 
