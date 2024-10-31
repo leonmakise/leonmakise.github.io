@@ -41,7 +41,7 @@ Note: * Equal contribution, ^ Corresponding authors.
 
 Xu Zhang\*, **Jiaqi Ma**\*, Guoli Wang, Qian Zhang, Huan Zhang, Lefei Zhang^.
 
-**Project WIP**
+[**Code**](https://github.com/House-yuyu/Perceive-IR), [**Project**](https://house-yuyu.github.io/Perceive-IR/) 
 
 we propose Perceive-IR, an all-in-one image restorer designed to achieve fine-grained quality control that enables restored images to more closely resemble their undistorted counterparts, regardless of the type or severity of degradation. 
 </div>
@@ -54,7 +54,7 @@ we propose Perceive-IR, an all-in-one image restorer designed to achieve fine-gr
 
 Di Wang\*, Meiqi Hu\*, Yao Jin\*, Yuchun Miao\*, Jiaqi Yang\*, Yichu Xu\*, Xiaolei Qin\*, **Jiaqi Ma**\*, Lingyu Sun\*, Chenxing Li\*, Chuan Fu, Hongruixuan Chen, Chengxi Han^, Naoto Yokoya, Jing Zhang^, Minqiang Xu, Lin Liu, Lefei Zhang, Chen Wu^, Bo Du^, Dacheng Tao, Liangpei Zhang^.
 
-[**Project**](https://github.com/WHU-Sigma/HyperSIGMA)
+[**Code**](https://github.com/WHU-Sigma/HyperSIGMA)
 
 
 we introduce HyperSIGMA, a vision transformer-based foundation model for HSI interpretation, scalable to over a billion parameters.
@@ -67,7 +67,7 @@ we introduce HyperSIGMA, a vision transformer-based foundation model for HSI int
 
 **Jiaqi Ma**\*, Tianheng Cheng\*, Guoli Wang, Qian Zhang, Xinggang Wang, Lefei Zhang^.
 
-[**Project**](https://github.com/leonmakise/ProRes) 
+[**Code**](https://github.com/leonmakise/ProRes), [**Project**](https://leonmakise.github.io/ProRes/) 
 
 We perform the first attempt to involve visual prompt into image restoration tasks and explore some new findings.
 </div>
@@ -92,7 +92,7 @@ We propose a joint demosaicing and denoising framework for restoring and enhanci
   
 **Jiaqi Ma**, Shengyuan Yan, Lefei Zhang^, Guoli Wang, Qian Zhang. 
 
-[**Project**](https://github.com/leonmakise/ELMformer) 
+[**Code**](https://github.com/leonmakise/ELMformer) 
   
 We propose an efficient transformer framework for raw image restoration.
 </div>
@@ -106,7 +106,7 @@ We propose an efficient transformer framework for raw image restoration.
   
 Guoli Wang, **Jiaqi Ma**, Qian Zhang, Jiwen Lu^, Jie Zhou. 
 
-[**Project**](https://github.com/leonmakise/PFGEPFR)
+[**Code**](https://github.com/leonmakise/PFGEPFR)
 
 We discover the residual in extreme poses and propose a light-weight plug-in for face recognition.
 </div>
