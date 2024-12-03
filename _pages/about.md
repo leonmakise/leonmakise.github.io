@@ -19,8 +19,9 @@ redirect_from:
 
 I am a Ph.D. candidate under supervision of [Prof. Lefei Zhang](https://scholar.google.ch/citations?user=BLKHwNwAAAAJ&hl=en) and [Prof. Bo Du](https://scholar.google.ch/citations?hl=en&user=Shy1gnMAAAAJ) at School of Computer Science, Wuhan University. I was a research intern at [Horizon Robotics](https://www.horizon.cc/) worked with [Dr. Qian Zhang](https://scholar.google.com/citations?user=pCY-bikAAAAJ) and [Dr. Guoli Wang](https://scholar.google.com/citations?user=z-25fk0AAAAJ). I was also a visiting student in [LV-Lab](http://lv-nus.org/) at NUS, which is founded by [Prof. Shuicheng Yan](https://scholar.google.ch/citations?hl=en&user=DNuiPHwAAAAJ) under supervision of [Prof. Xinchao Wang](https://scholar.google.ch/citations?user=w69Buq0AAAAJ&hl=en).
 
-My research interests include low-level vision for Natural Images (All-in-one Restoration), Raw Images (Neural ISP) and Remote Sensing Images (Hyperspectral).
+My research interests include Vision for Natural Images (All-in-one Restoration), Raw Images (Neural ISP), Autonomous Driving Scene, and Remote Sensing Images (Hyperspectral).
 
+📧 I am open to potential postdoctral positions. Please drop me emails in you are interested.
 📧 I am open to collaboration and welcome inquiries from anyone interested in my research. Please feel free to reach out via email.
 
 # 🔥 News
