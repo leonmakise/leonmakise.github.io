@@ -169,6 +169,8 @@ Xu Zhang, Shengyuan Yan, Hongyu Li
 
 Chuan Fu, Di Wang, Chengxi Han, Yichu Xu, Yuchun Miao, Jiaqi Yang, Meiqi Hu, Yao Jin, Xiaolei Qin, Lingyu Sun, Chenxing Li, Hongruixuan Chen
 
-<div style="transform: scale(0.2); transform-origin: 0 0;">
+
+# 🧾 Statistic
+<div style="transform: scale(0.2); transform-origin: 0 0; text-align: center;">
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=5Z8qbZcELaDfXeFkEVUmlkL70cN170MHfTr1ioboS78&cl=ffffff&w=a"></script>
 </div>
