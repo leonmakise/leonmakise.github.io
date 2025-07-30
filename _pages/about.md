@@ -21,7 +21,7 @@ I received my Ph.D. degrees in Computer Science from Wuhan University in 2024 un
 
 My research interests include Vision for Natural Images (All-in-one Restoration), Raw Images (Neural ISP), Autonomous Driving Scene, and Remote Sensing Images (Hyperspectral).
 
-📧 I am open to collaboration and welcome inquiries from anyone interested in my research. Please feel free to reach out via jiaqi.ma AT mbzuai.ac.ae.
+📧 I am open to collaboration and welcome inquiries from anyone interested in my research topics. Feel free to reach out via jiaqi.ma AT mbzuai.ac.ae.
 
 # 🔥 News
 - *2025.05*: &nbsp;🎉 Perceive-IR is accepted by TIP.
