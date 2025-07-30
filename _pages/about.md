@@ -21,10 +21,12 @@ I received my Ph.D. degrees in Computer Science from Wuhan University in 2024 an
 
 My research interests include Vision for Natural Images (All-in-one Restoration), Raw Images (Neural ISP), Autonomous Driving Scene, and Remote Sensing Images (Hyperspectral).
 
-📧 I am open to collaboration and welcome inquiries from anyone interested in my research. Please feel free to reach out via email.
+📧 I am open to collaboration and welcome inquiries from anyone interested in my research. Please feel free to reach out via [email](jiaqi.ma@mbzuai.ac.ae).
 
 # 🔥 News
-- *2024.12*: &nbsp;🥂 Starting from 2025, I will join MBZUAI as a postdoc working with [Assoc. Prof. Salman Khan](https://salman-h-khan.github.io/)!
+- *2025.05*: &nbsp;🎉 One paper is accepted by TIP.
+- *2025.04*: &nbsp;🎉 One paper is accepted by TPAMI.
+- *2024.12*: &nbsp;🥂 Starting from 2025, I will join [MBZUAI](https://www.ival-mbzuai.com/) as a postdoc associate working with [Assoc. Prof. Salman Khan](https://salman-h-khan.github.io/)!
 - *2024.09*: &nbsp;🥂 We release a project regarding with [*All-in-one Image Restoration*](https://github.com/leonmakise/Awesome-All-in-one-Image-Restoration-Methods). We are awlays updating those recent awesome methods on this arising task. The comprehensive survey on All-in-one Image Restoration is on the way, stay tune with us~
 - *2024.08*: &nbsp;✨ [*Perceive-IR*](https://arxiv.org/abs/2408.15994) is on ArXiv now (All-in-one Image Restoration).
 - *2024.06*: &nbsp;✨ [*HyperSIGMA*](https://arxiv.org/abs/2406.11519) is on ArXiv now (The First One Billion Params Remote Sensing Foundation Model!).
@@ -38,7 +40,7 @@ My research interests include Vision for Natural Images (All-in-one Restoration)
 # 📝 Publications 
 Note: * Equal contribution, ^ Corresponding authors.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review (TIP)</div><img src='images/perceive-ir.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP</div><img src='images/perceive-ir.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - [Perceive-IR: Learning to Perceive Degradation Better for All-in-One Image Restoration](https://arxiv.org/abs/2408.15994)
 
@@ -50,7 +52,7 @@ we propose Perceive-IR, an all-in-one image restorer designed to achieve fine-gr
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review (TPAMI)</div><img src='images/hypersigma.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/hypersigma.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - [HyperSIGMA: Hyperspectral Intelligence Comprehension Foundation Model](https://arxiv.org/abs/2406.11519)
 
