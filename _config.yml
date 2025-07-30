@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jiaqi Ma/马嘉祺"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Ph.D. candidate"
-  location         : "China"
+  bio              : "PostDoc"
+  location         : "UAE"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=BJUlpoMAAAAJ"
-  email            : "jiaqima@whu.edu.cn"
+  email            : "jiaqi.ma@mbzuai.ac.ae"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
