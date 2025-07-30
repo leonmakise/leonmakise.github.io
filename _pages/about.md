@@ -21,11 +21,11 @@ I received my Ph.D. degrees in Computer Science from Wuhan University in 2024 an
 
 My research interests include Vision for Natural Images (All-in-one Restoration), Raw Images (Neural ISP), Autonomous Driving Scene, and Remote Sensing Images (Hyperspectral).
 
-📧 I am open to collaboration and welcome inquiries from anyone interested in my research. Please feel free to reach out via [email](jiaqi.ma@mbzuai.ac.ae).
+📧 I am open to collaboration and welcome inquiries from anyone interested in my research. Please feel free to reach out via jiaqi.ma AT mbzuai.ac.ae.
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉 One paper is accepted by TIP.
-- *2025.04*: &nbsp;🎉 One paper is accepted by TPAMI.
+- *2025.05*: &nbsp;🎉 Perceive-IR is accepted by TIP.
+- *2025.04*: &nbsp;🎉 HyperSIGMA is accepted by TPAMI.
 - *2024.12*: &nbsp;🥂 Starting from 2025, I will join [MBZUAI](https://www.ival-mbzuai.com/) as a postdoc associate working with [Assoc. Prof. Salman Khan](https://salman-h-khan.github.io/)!
 - *2024.09*: &nbsp;🥂 We release a project regarding with [*All-in-one Image Restoration*](https://github.com/leonmakise/Awesome-All-in-one-Image-Restoration-Methods). We are awlays updating those recent awesome methods on this arising task. The comprehensive survey on All-in-one Image Restoration is on the way, stay tune with us~
 - *2024.08*: &nbsp;✨ [*Perceive-IR*](https://arxiv.org/abs/2408.15994) is on ArXiv now (All-in-one Image Restoration).
