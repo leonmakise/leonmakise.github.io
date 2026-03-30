@@ -17,13 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received my Ph.D. degrees in Computer Science from Wuhan University in 2024 under supervision of [Prof. Lefei Zhang](https://scholar.google.ch/citations?user=BLKHwNwAAAAJ&hl=en) and currently a Postdoctoral Researcher at the Mohamed bin Zayed University of Artificial Intelligence (MBZUAI). I was a research intern at [Horizon Robotics](https://www.horizon.cc/) worked with [Dr. Qian Zhang](https://scholar.google.com/citations?user=pCY-bikAAAAJ) and [Dr. Guoli Wang](https://scholar.google.com/citations?user=z-25fk0AAAAJ). I was also a visiting student in [LV-Lab](http://lv-nus.org/) at NUS under supervision of [Prof. Xinchao Wang](https://scholar.google.ch/citations?user=w69Buq0AAAAJ&hl=en).
+I received my Ph.D. degrees in Computer Science from Wuhan University in 2024 under supervision of [Prof. Lefei Zhang](https://scholar.google.ch/citations?user=BLKHwNwAAAAJ&hl=en) and currently a Postdoctoral Researcher at the Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) mentored by [Prof. Salman Khan](https://salman-h-khan.github.io/). I was a research intern at [Horizon Robotics](https://www.horizon.cc/) worked with [Dr. Qian Zhang](https://scholar.google.com/citations?user=pCY-bikAAAAJ) and [Dr. Guoli Wang](https://scholar.google.com/citations?user=z-25fk0AAAAJ). I was also a visiting student in [LV-Lab](http://lv-nus.org/) at NUS under supervision of [Prof. Xinchao Wang](https://scholar.google.ch/citations?user=w69Buq0AAAAJ&hl=en).
 
 My research interests include Vision for Natural Images (All-in-one Restoration), Raw Images (Neural ISP), Autonomous Driving Scene, and Remote Sensing Images (Hyperspectral).
 
 📧 I am open to collaboration and welcome inquiries from anyone interested in my research topics. Feel free to reach out via jiaqi.ma AT mbzuai.ac.ae.
 
 # 🔥 News
+- *2026.03*: &nbsp;✨ We win the 4th place in the first challenge on real-world all-in-one image restoration by LOVIF @CVPR 2026.
+- *2026.02*: &nbsp;🎉 RainDiff is accepted by CVPR 2026. Congrats to all collaborators!
+- *2026.01*: &nbsp;🎉 Simtoken is accepted by ICASSP 2026. Congrats to all collaborators!
+- *2025.12*: &nbsp;✨ [*Token Expand-Merge*](https://arxiv.org/abs/2512.09927) is on ArXiv now (Vision-Language-Action Models).
+- *2025.12*: &nbsp;✨ [*ClusIR*](https://arxiv.org/abs/2512.10948) is on ArXiv now (All-in-one Image Restoration).
+- *2025.12*: &nbsp;✨ [*EvoIR*](https://arxiv.org/abs/2512.05104) is on ArXiv now (All-in-one Image Restoration).
 - *2025.05*: &nbsp;🎉 Perceive-IR is accepted by TIP.
 - *2025.04*: &nbsp;🎉 HyperSIGMA is accepted by TPAMI.
 - *2024.12*: &nbsp;🥂 Starting from 2025, I will join [MBZUAI](https://www.ival-mbzuai.com/) as a postdoc associate working with [Assoc. Prof. Salman Khan](https://salman-h-khan.github.io/)!
@@ -164,13 +170,15 @@ We discover the relationship between NMF and LDA and propose a pseudo supervised
 # 🔬 Internships
 - *2020.10 - 2023.06*, &emsp; Horizon Robotics &emsp; Research Intern.
 
-# 👫 Collaboration
+<!-- # 👫 Collaboration
 Tianheng Cheng, Zhihe Lu, Jiawang Bai, Zeyu Xiao
 
 Xu Zhang, Shengyuan Yan, Hongyu Li
 
 Chuan Fu, Di Wang, Chengxi Han, Yichu Xu, Yuchun Miao, Jiaqi Yang, Meiqi Hu, Yao Jin, Xiaolei Qin, Lingyu Sun, Chenxing Li, Hongruixuan Chen
+ -->
 
+<!-- # 👫 Academic Service -->
 
 # 🧾 Statistic
 <div style="text-align: center;">
