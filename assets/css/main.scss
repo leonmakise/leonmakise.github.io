@@ -113,12 +113,12 @@ h1:before, .anchor:before {
         justify-content: center;
         display: flex;
         width: 100%;
-        order: 2;
+        order: 1;
 
         > div {
             position: relative;
             width: 100%;
-            max-width: 420px;
+            max-width: 440px;
             aspect-ratio: 4 / 3;
             overflow: hidden;
             border: 1px solid #e1e7ef;
@@ -139,7 +139,7 @@ h1:before, .anchor:before {
     .paper-box-text {
         position: relative;
         max-width: 100%;
-        order: 1;
+        order: 2;
 
         > ul:first-of-type {
             margin: .05rem 0 .45rem;
@@ -219,6 +219,10 @@ h1:before, .anchor:before {
     white-space: nowrap;
 }
 
+.show_paper_citations:empty {
+    display: none;
+}
+
 .site-statistic {
     margin: 2rem 0 0;
     padding-top: 1rem;
@@ -247,9 +251,9 @@ h1:before, .anchor:before {
     opacity: .85;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 900px) {
     .paper-box {
-        grid-template-columns: minmax(280px, 340px) minmax(0, 1fr);
+        grid-template-columns: minmax(320px, 440px) minmax(0, 1fr);
         gap: 1.6rem;
 
         .paper-box-image {
