@@ -24,24 +24,26 @@ My research interests include vision for natural images (all-in-one restoration)
 📧 I am open to collaboration and welcome inquiries from anyone interested in my research topics. Feel free to reach out via jiaqi.ma AT mbzuai.ac.ae.
 
 # 🔥 News
-- *2026.03*: &nbsp;✨ We won 4th place in the first real-world all-in-one image restoration challenge by LOVIF @ CVPR 2026.
-- *2026.02*: &nbsp;🎉 RainDiff was accepted by CVPR 2026. Congrats to all collaborators!
-- *2026.01*: &nbsp;🎉 Simtoken was accepted by ICASSP 2026. Congrats to all collaborators!
-- *2025.12*: &nbsp;✨ [*Token Expand-Merge*](https://arxiv.org/abs/2512.09927) is now on arXiv (Vision-Language-Action Models).
-- *2025.12*: &nbsp;✨ [*ClusIR*](https://arxiv.org/abs/2512.10948) is now on arXiv (All-in-one Image Restoration).
-- *2025.12*: &nbsp;✨ [*EvoIR*](https://arxiv.org/abs/2512.05104) is now on arXiv (All-in-one Image Restoration).
-- *2025.05*: &nbsp;🎉 Perceive-IR was accepted by TIP.
-- *2025.04*: &nbsp;🎉 HyperSIGMA was accepted by TPAMI.
-- *2024.12*: &nbsp;🥂 In 2025, I joined [MBZUAI](https://www.ival-mbzuai.com/) as a postdoctoral associate working with [Assoc. Prof. Salman Khan](https://salman-h-khan.github.io/)!
-- *2024.09*: &nbsp;🥂 We released a project on [*All-in-one Image Restoration*](https://github.com/leonmakise/Awesome-All-in-one-Image-Restoration-Methods). We are always updating recent methods on this emerging task. A comprehensive survey on All-in-one Image Restoration is on the way; stay tuned.
-- *2024.08*: &nbsp;✨ [*Perceive-IR*](https://arxiv.org/abs/2408.15994) is now on arXiv (All-in-one Image Restoration).
-- *2024.06*: &nbsp;✨ [*HyperSIGMA*](https://arxiv.org/abs/2406.11519) is now on arXiv (the first one-billion-parameter remote sensing foundation model!).
-- *2023.06*: &nbsp;✨ [*ProRes*](https://arxiv.org/abs/2306.13653) is now on arXiv (All-in-one Image Restoration).
-- *2023.04*: &nbsp;🎉 One paper was accepted by Neural Networks.
-- *2022.06*: &nbsp;🎉 One paper was accepted by ACM MM 2022.
-- *2021.03*: &nbsp;🎉 One paper was accepted by CVPR 2021.
-- *2020.10*: &nbsp;🎉 One paper was accepted by Pattern Recognition.
-- *2019.05*: &nbsp;🎉 One paper was accepted by IJCAI 2019.
+<div class="news-timeline">
+  <div class="news-item"><span class="news-date">2026.03</span><div class="news-body">✨ We won 4th place in the first real-world all-in-one image restoration challenge by LOVIF @ CVPR 2026.</div></div>
+  <div class="news-item"><span class="news-date">2026.02</span><div class="news-body">🎉 RainDiff was accepted by CVPR 2026. Congrats to all collaborators!</div></div>
+  <div class="news-item"><span class="news-date">2026.01</span><div class="news-body">🎉 Simtoken was accepted by ICASSP 2026. Congrats to all collaborators!</div></div>
+  <div class="news-item"><span class="news-date">2025.12</span><div class="news-body">✨ <a href="https://arxiv.org/abs/2512.09927"><em>Token Expand-Merge</em></a> is now on arXiv (Vision-Language-Action Models).</div></div>
+  <div class="news-item"><span class="news-date">2025.12</span><div class="news-body">✨ <a href="https://arxiv.org/abs/2512.10948"><em>ClusIR</em></a> is now on arXiv (All-in-one Image Restoration).</div></div>
+  <div class="news-item"><span class="news-date">2025.12</span><div class="news-body">✨ <a href="https://arxiv.org/abs/2512.05104"><em>EvoIR</em></a> is now on arXiv (All-in-one Image Restoration).</div></div>
+  <div class="news-item"><span class="news-date">2025.05</span><div class="news-body">🎉 Perceive-IR was accepted by TIP.</div></div>
+  <div class="news-item"><span class="news-date">2025.04</span><div class="news-body">🎉 HyperSIGMA was accepted by TPAMI.</div></div>
+  <div class="news-item"><span class="news-date">2024.12</span><div class="news-body">🥂 In 2025, I joined <a href="https://www.ival-mbzuai.com/">MBZUAI</a> as a postdoctoral associate working with <a href="https://salman-h-khan.github.io/">Assoc. Prof. Salman Khan</a>!</div></div>
+  <div class="news-item"><span class="news-date">2024.09</span><div class="news-body">🥂 We released a project on <a href="https://github.com/leonmakise/Awesome-All-in-one-Image-Restoration-Methods"><em>All-in-one Image Restoration</em></a>. We are always updating recent methods on this emerging task. A comprehensive survey is on the way; stay tuned.</div></div>
+  <div class="news-item"><span class="news-date">2024.08</span><div class="news-body">✨ <a href="https://arxiv.org/abs/2408.15994"><em>Perceive-IR</em></a> is now on arXiv (All-in-one Image Restoration).</div></div>
+  <div class="news-item"><span class="news-date">2024.06</span><div class="news-body">✨ <a href="https://arxiv.org/abs/2406.11519"><em>HyperSIGMA</em></a> is now on arXiv (the first one-billion-parameter remote sensing foundation model!).</div></div>
+  <div class="news-item"><span class="news-date">2023.06</span><div class="news-body">✨ <a href="https://arxiv.org/abs/2306.13653"><em>ProRes</em></a> is now on arXiv (All-in-one Image Restoration).</div></div>
+  <div class="news-item"><span class="news-date">2023.04</span><div class="news-body">🎉 One paper was accepted by Neural Networks.</div></div>
+  <div class="news-item"><span class="news-date">2022.06</span><div class="news-body">🎉 One paper was accepted by ACM MM 2022.</div></div>
+  <div class="news-item"><span class="news-date">2021.03</span><div class="news-body">🎉 One paper was accepted by CVPR 2021.</div></div>
+  <div class="news-item"><span class="news-date">2020.10</span><div class="news-body">🎉 One paper was accepted by Pattern Recognition.</div></div>
+  <div class="news-item"><span class="news-date">2019.05</span><div class="news-body">🎉 One paper was accepted by IJCAI 2019.</div></div>
+</div>
 
 # 📝 Publications 
 Note: * Equal contribution, ^ Corresponding authors.
@@ -53,7 +55,7 @@ Note: * Equal contribution, ^ Corresponding authors.
 
 Xu Zhang\*, **Jiaqi Ma**\*, Guoli Wang, Qian Zhang, Huan Zhang, Lefei Zhang^.
 
-[**Code**](https://github.com/House-yuyu/Perceive-IR), [**Project**](https://house-yuyu.github.io/Perceive-IR/) 
+<div class="paper-links"><a href="https://github.com/House-yuyu/Perceive-IR">Code</a><a href="https://house-yuyu.github.io/Perceive-IR/">Project</a></div>
 
 We propose Perceive-IR, an all-in-one image restorer designed to achieve fine-grained quality control that enables restored images to more closely resemble their undistorted counterparts, regardless of the type or severity of degradation. 
 </div>
@@ -67,7 +69,7 @@ We propose Perceive-IR, an all-in-one image restorer designed to achieve fine-gr
 
 Di Wang\*, Meiqi Hu\*, Yao Jin\*, Yuchun Miao\*, Jiaqi Yang\*, Yichu Xu\*, Xiaolei Qin\*, **Jiaqi Ma**\*, Lingyu Sun\*, Chenxing Li\*, Chuan Fu, Hongruixuan Chen, Chengxi Han^, Naoto Yokoya, Jing Zhang^, Minqiang Xu, Lin Liu, Lefei Zhang, Chen Wu^, Bo Du^, Dacheng Tao, Liangpei Zhang^.
 
-[**Code**](https://github.com/WHU-Sigma/HyperSIGMA)
+<div class="paper-links"><a href="https://github.com/WHU-Sigma/HyperSIGMA">Code</a></div>
 
 
 We introduce HyperSIGMA, a vision transformer-based foundation model for HSI interpretation, scalable to over a billion parameters.
@@ -81,7 +83,7 @@ We introduce HyperSIGMA, a vision transformer-based foundation model for HSI int
 
 **Jiaqi Ma**\*, Tianheng Cheng\*, Guoli Wang, Qian Zhang, Xinggang Wang, Lefei Zhang^.
 
-[**Code**](https://github.com/leonmakise/ProRes), [**Project**](https://leonmakise.github.io/ProRes/) 
+<div class="paper-links"><a href="https://github.com/leonmakise/ProRes">Code</a><a href="https://leonmakise.github.io/ProRes/">Project</a></div>
 
 We make the first attempt to introduce visual prompts into image restoration tasks and explore new findings.
 </div>
@@ -108,7 +110,7 @@ We propose a joint demosaicing and denoising framework for restoring and enhanci
   
 **Jiaqi Ma**, Shengyuan Yan, Lefei Zhang^, Guoli Wang, Qian Zhang. 
 
-[**Code**](https://github.com/leonmakise/ELMformer) 
+<div class="paper-links"><a href="https://github.com/leonmakise/ELMformer">Code</a></div>
   
 We propose an efficient transformer framework for raw image restoration.
 </div>
@@ -122,7 +124,7 @@ We propose an efficient transformer framework for raw image restoration.
   
 Guoli Wang, **Jiaqi Ma**, Qian Zhang, Jiwen Lu^, Jie Zhou. 
 
-[**Code**](https://github.com/leonmakise/PFGEPFR)
+<div class="paper-links"><a href="https://github.com/leonmakise/PFGEPFR">Code</a></div>
 
 We discover the residual in extreme poses and propose a lightweight plug-in for face recognition.
 </div>
@@ -185,9 +187,9 @@ Chuan Fu, Di Wang, Chengxi Han, Yichu Xu, Yuchun Miao, Jiaqi Yang, Meiqi Hu, Yao
 
 <!-- # 👫 Academic Service -->
 
-# 🧾 Statistic
-<div style="text-align: center;">
-<div style="transform: scale(0.5); transform-origin: 0 0;">
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=5Z8qbZcELaDfXeFkEVUmlkL70cN170MHfTr1ioboS78&cl=ffffff&w=a"></script>
-</div>
+<div class="site-statistic">
+  <span class="site-statistic__label">Visitor map</span>
+  <div class="site-statistic__map">
+    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=5Z8qbZcELaDfXeFkEVUmlkL70cN170MHfTr1ioboS78&cl=ffffff&w=a"></script>
+  </div>
 </div>
