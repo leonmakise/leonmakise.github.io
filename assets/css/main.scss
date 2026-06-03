@@ -107,3 +107,26 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.show_paper_citations {
+    float: right;
+    display: inline-flex;
+    align-items: center;
+    margin: 0 0 .35rem .75rem;
+    padding: .16rem .55rem;
+    border: 1px solid #b8c7df;
+    border-radius: 999px;
+    color: #27456c;
+    background: #f3f7fc;
+    font-size: .72rem;
+    font-weight: 600;
+    line-height: 1.35;
+    white-space: nowrap;
+}
+
+@media (max-width: 600px) {
+    .show_paper_citations {
+        float: none;
+        margin: 0 0 .4rem 0;
+    }
+}
