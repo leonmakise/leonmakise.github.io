@@ -192,9 +192,6 @@ Chuan Fu, Di Wang, Chengxi Han, Yichu Xu, Yuchun Miao, Jiaqi Yang, Meiqi Hu, Yao
 
 <!-- # 👫 Academic Service -->
 
-<div class="site-statistic">
-  <span class="site-statistic__label">Visitor map</span>
-  <div class="site-statistic__map">
-    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=5Z8qbZcELaDfXeFkEVUmlkL70cN170MHfTr1ioboS78&cl=ffffff&w=a"></script>
-  </div>
-</div>
+# Statistic
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=5Z8qbZcELaDfXeFkEVUmlkL70cN170MHfTr1ioboS78&cl=ffffff&w=a"></script>

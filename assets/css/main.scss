@@ -223,34 +223,6 @@ h1:before, .anchor:before {
     display: none;
 }
 
-.site-statistic {
-    margin: 2rem 0 0;
-    padding-top: 1rem;
-    border-top: 1px solid #eef2f6;
-    text-align: center;
-}
-
-.site-statistic__label {
-    display: block;
-    margin-bottom: .35rem;
-    color: #7b8794;
-    font-size: .68rem;
-    font-weight: 700;
-    text-transform: uppercase;
-}
-
-.site-statistic__map {
-    width: 240px;
-    margin: 0 auto;
-    opacity: .55;
-    transform: scale(.68);
-    transform-origin: center top;
-}
-
-.site-statistic__map:hover {
-    opacity: .85;
-}
-
 @media (min-width: 900px) {
     .paper-box {
         grid-template-columns: minmax(320px, 440px) minmax(0, 1fr);
