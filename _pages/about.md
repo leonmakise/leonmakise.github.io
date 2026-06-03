@@ -33,17 +33,22 @@ My research interests include vision for natural images (all-in-one restoration)
   <div class="news-item"><span class="news-date">2025.12</span><div class="news-body">✨ <a href="https://arxiv.org/abs/2512.05104"><em>EvoIR</em></a> is now on arXiv (All-in-one Image Restoration).</div></div>
   <div class="news-item"><span class="news-date">2025.05</span><div class="news-body">🎉 Perceive-IR was accepted by TIP.</div></div>
   <div class="news-item"><span class="news-date">2025.04</span><div class="news-body">🎉 HyperSIGMA was accepted by TPAMI.</div></div>
-  <div class="news-item"><span class="news-date">2024.12</span><div class="news-body">🥂 In 2025, I joined <a href="https://www.ival-mbzuai.com/">MBZUAI</a> as a postdoctoral associate working with <a href="https://salman-h-khan.github.io/">Assoc. Prof. Salman Khan</a>!</div></div>
-  <div class="news-item"><span class="news-date">2024.09</span><div class="news-body">🥂 We released a project on <a href="https://github.com/leonmakise/Awesome-All-in-one-Image-Restoration-Methods"><em>All-in-one Image Restoration</em></a>. We are always updating recent methods on this emerging task. A comprehensive survey is on the way; stay tuned.</div></div>
-  <div class="news-item"><span class="news-date">2024.08</span><div class="news-body">✨ <a href="https://arxiv.org/abs/2408.15994"><em>Perceive-IR</em></a> is now on arXiv (All-in-one Image Restoration).</div></div>
-  <div class="news-item"><span class="news-date">2024.06</span><div class="news-body">✨ <a href="https://arxiv.org/abs/2406.11519"><em>HyperSIGMA</em></a> is now on arXiv (the first one-billion-parameter remote sensing foundation model!).</div></div>
-  <div class="news-item"><span class="news-date">2023.06</span><div class="news-body">✨ <a href="https://arxiv.org/abs/2306.13653"><em>ProRes</em></a> is now on arXiv (All-in-one Image Restoration).</div></div>
-  <div class="news-item"><span class="news-date">2023.04</span><div class="news-body">🎉 One paper was accepted by Neural Networks.</div></div>
-  <div class="news-item"><span class="news-date">2022.06</span><div class="news-body">🎉 One paper was accepted by ACM MM 2022.</div></div>
-  <div class="news-item"><span class="news-date">2021.03</span><div class="news-body">🎉 One paper was accepted by CVPR 2021.</div></div>
-  <div class="news-item"><span class="news-date">2020.10</span><div class="news-body">🎉 One paper was accepted by Pattern Recognition.</div></div>
-  <div class="news-item"><span class="news-date">2019.05</span><div class="news-body">🎉 One paper was accepted by IJCAI 2019.</div></div>
 </div>
+<details class="news-more">
+  <summary>Earlier news</summary>
+  <div class="news-timeline news-timeline--compact">
+    <div class="news-item"><span class="news-date">2024.12</span><div class="news-body">🥂 In 2025, I joined <a href="https://www.ival-mbzuai.com/">MBZUAI</a> as a postdoctoral associate working with <a href="https://salman-h-khan.github.io/">Assoc. Prof. Salman Khan</a>!</div></div>
+    <div class="news-item"><span class="news-date">2024.09</span><div class="news-body">🥂 We released a project on <a href="https://github.com/leonmakise/Awesome-All-in-one-Image-Restoration-Methods"><em>All-in-one Image Restoration</em></a>. We are always updating recent methods on this emerging task. A comprehensive survey is on the way; stay tuned.</div></div>
+    <div class="news-item"><span class="news-date">2024.08</span><div class="news-body">✨ <a href="https://arxiv.org/abs/2408.15994"><em>Perceive-IR</em></a> is now on arXiv (All-in-one Image Restoration).</div></div>
+    <div class="news-item"><span class="news-date">2024.06</span><div class="news-body">✨ <a href="https://arxiv.org/abs/2406.11519"><em>HyperSIGMA</em></a> is now on arXiv (the first one-billion-parameter remote sensing foundation model!).</div></div>
+    <div class="news-item"><span class="news-date">2023.06</span><div class="news-body">✨ <a href="https://arxiv.org/abs/2306.13653"><em>ProRes</em></a> is now on arXiv (All-in-one Image Restoration).</div></div>
+    <div class="news-item"><span class="news-date">2023.04</span><div class="news-body">🎉 One paper was accepted by Neural Networks.</div></div>
+    <div class="news-item"><span class="news-date">2022.06</span><div class="news-body">🎉 One paper was accepted by ACM MM 2022.</div></div>
+    <div class="news-item"><span class="news-date">2021.03</span><div class="news-body">🎉 One paper was accepted by CVPR 2021.</div></div>
+    <div class="news-item"><span class="news-date">2020.10</span><div class="news-body">🎉 One paper was accepted by Pattern Recognition.</div></div>
+    <div class="news-item"><span class="news-date">2019.05</span><div class="news-body">🎉 One paper was accepted by IJCAI 2019.</div></div>
+  </div>
+</details>
 
 # 📝 Publications 
 Note: * Equal contribution, ^ Corresponding authors.
