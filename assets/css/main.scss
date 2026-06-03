@@ -286,3 +286,22 @@ h1:before, .anchor:before {
         margin: 0 0 .45rem 0;
     }
 }
+
+@media (min-width: 1200px) {
+    #main:has(#about-me) {
+        max-width: 1560px;
+    }
+
+    #main:has(#about-me) .page {
+        padding-left: 2.5%;
+    }
+
+    #main:has(#about-me) .paper-box {
+        grid-template-columns: minmax(380px, 500px) minmax(0, 1fr);
+        gap: 1.9rem;
+    }
+
+    #main:has(#about-me) .paper-box .paper-box-image > div {
+        max-width: 500px;
+    }
+}
