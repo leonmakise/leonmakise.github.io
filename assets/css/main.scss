@@ -289,6 +289,7 @@ h1:before, .anchor:before {
 
 @media (min-width: 1200px) {
     #main:has(#about-me) {
+        width: calc(100% - 6rem);
         max-width: 1560px;
     }
 
