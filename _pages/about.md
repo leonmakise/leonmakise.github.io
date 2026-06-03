@@ -48,6 +48,7 @@ Note: * Equal contribution, ^ Corresponding authors.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP</div><img src='images/perceive-ir.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+<span class='show_paper_citations' data='BJUlpoMAAAAJ:_FxGoFyzp5QC'></span>
 - [Perceive-IR: Learning to Perceive Degradation Better for All-in-One Image Restoration](https://arxiv.org/abs/2408.15994)
 
 Xu Zhang\*, **Jiaqi Ma**\*, Guoli Wang, Qian Zhang, Huan Zhang, Lefei Zhang^.
@@ -60,6 +61,7 @@ We propose Perceive-IR, an all-in-one image restorer designed to achieve fine-gr
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/hypersigma.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+<span class='show_paper_citations' data='BJUlpoMAAAAJ:UeHWp8X0CEIC'></span>
 - [HyperSIGMA: Hyperspectral Intelligence Comprehension Foundation Model](https://arxiv.org/abs/2406.11519)
 
 
@@ -74,6 +76,7 @@ We introduce HyperSIGMA, a vision transformer-based foundation model for HSI int
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review (TIP)</div><img src='images/prores.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+<span class='show_paper_citations' data='BJUlpoMAAAAJ:qjMakFHDy7sC'></span>
 - [ProRes: Exploring Degradation-aware Visual Prompt for Universal Image Restoration](https://arxiv.org/abs/2306.13653)
 
 **Jiaqi Ma**\*, Tianheng Cheng\*, Guoli Wang, Qian Zhang, Xinggang Wang, Lefei Zhang^.
@@ -87,6 +90,7 @@ We make the first attempt to introduce visual prompts into image restoration tas
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks</div><img src='images/nn2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+<span class='show_paper_citations' data='BJUlpoMAAAAJ:2osOgNQ5qMEC'></span>
 - [Restoration and Enhancement on Low Exposure Raw Images by Joint Demosaicing and Denoising](https://www.sciencedirect.com/science/article/pii/S0893608023001442)
 
 **Jiaqi Ma**, Guoli Wang, Lefei Zhang^, Qian Zhang. 
@@ -99,6 +103,7 @@ We propose a joint demosaicing and denoising framework for restoring and enhanci
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2022</div><img src='images/acm mm2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+<span class='show_paper_citations' data='BJUlpoMAAAAJ:9yKSN-GCB0IC'></span>
 - [ELMformer: Efficient Raw Image Restoration with a Locally Multiplicative Transformer](https://dl.acm.org/doi/abs/10.1145/3503161.3547767)
   
 **Jiaqi Ma**, Shengyuan Yan, Lefei Zhang^, Guoli Wang, Qian Zhang. 
